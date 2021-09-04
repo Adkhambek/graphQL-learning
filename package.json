@@ -1,0 +1,24 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adkhambek/graphQL-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adkhambek/graphQL-learning/issues"
+  },
+  "homepage": "https://github.com/Adkhambek/graphQL-learning#readme",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.5.2"
+  }
+}
